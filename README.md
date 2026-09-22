@@ -1,8 +1,12 @@
 # Jogo-em-PYTHON
+
 Jogo da Forca 🎮
+
 Integrantes da equipe
+
 Ana Lívia Parolim
 Gabriel de Souza
+
 Tema escolhido
 Jogo da Forca (Hangman) com interface gráfica, desenvolvido em Python usando a biblioteca Pygame.
 
